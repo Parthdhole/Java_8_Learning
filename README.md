@@ -13,3 +13,6 @@ by using Lambada Expression we can write implementation of Functional Interface
 
 
 Java is object-oriented but not fully object-oriented because it supports primitive data types, static methods, and static variables that can be accessed without creating objects. Additionally, from Java 8 onwards, interfaces can have static and default method implementations, which can be executed without object creation. These features violate pure object-oriented principles.
+
+
+java Stream:-
