@@ -1,18 +1,25 @@
-                                                                          java 8 learning 
+java 8:-Features 
 
-                                                                          
-1)Functional Interface :- the function that conation only one abstract  methos is called is Function Interface 
-                          by using this we can achieve lambda expression 
+ benefit's:- 1)it reduce the code
+            2)it use for functional  programing benefit's
+            3)to enable the parallel programing enable multicore code with multi core processor 
+      
+
+Default method:- the methods that are with body is called Default
+                - we can directly use without overriding them
+
+Static methods:- the method that are declared inside the interface with static keyword or declared with the abstract keyword 
+  - it contain the complete definition of function because it cannot override
+  - we can declared the main method inside the interface in java 8 version  
+
+
+1)Functional Interface :- the interface   that conation only one abstract  methos is called is Function Interface but it can have any number of default and static method
+                         - by using this we can achieve lambda expression
+
+
+what is advantage of @FuntionalInterface Annotation
+-it restrict the interface to be Functional Interface
+-if any one after using lambda expression can add any abstract method in interface it give error
+ 
                    
                          
-2)Lambada Expression :- the expression without return type, without access modifier and without method name 
-by using Lambada Expression we can write implementation of Functional Interface 
-
--- it also  use to reduce boiler plate code
--by using this we can implement method logic without creating object
-
-
-Java is object-oriented but not fully object-oriented because it supports primitive data types, static methods, and static variables that can be accessed without creating objects. Additionally, from Java 8 onwards, interfaces can have static and default method implementations, which can be executed without object creation. These features violate pure object-oriented principles.
-
-
-java Stream:-
