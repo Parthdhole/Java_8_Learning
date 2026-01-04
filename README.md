@@ -44,6 +44,8 @@ Java is object-oriented but not fully object-oriented because it supports primit
 
 
 
+
+collection                   vs         stream api 
  Feature	Collection	Stream API
 Nature	Data structure 	Data processing API
 Purpose	Stores elements 	Processes elements
