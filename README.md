@@ -62,6 +62,17 @@ Java Version	Available since Java 1.2	       Introduced in Java 8
 
 
 
+Java 8 was introduced to bring functional programming features, improve collection processing with Streams, enable parallelism, and make Java code more concise and readable.
+To support Functional Programming
+To process data easily using Streams API
+To enable Parallel Processing 
+To solve interface evolution problem (Default methods)
+To improve performance & code readability
+
+
+
+
+
 
 
 
