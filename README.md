@@ -8,7 +8,8 @@ java 8:-Features
 Default method:- the methods that are with body is called Default
                 - we can directly use without overriding them
 
-Static methods:- the method that are declared inside the interface with static keyword or declared with the abstract keyword 
+Static methods:- the method that are declared inside the interface with static keyword or declared with the abstract keyword
+    to allow utility mehods in interfaces and support interface evolution without breaking existing implmenation 
   - it contain the complete definition of function because it cannot override
   - we can declared the main method inside the interface in java 8 version  
 
