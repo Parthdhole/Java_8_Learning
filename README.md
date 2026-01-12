@@ -73,6 +73,22 @@ To improve performance & code readability
 
 
 
+-what is filter, map reduce
+“In Java Streams, filter() is used to select elements based on a condition, 
+map() is used to transform elements, and 
+sorted() is used to arrange elements in a specific order.”
+
+
+
+-sequence stream and parallel stream
+-what is map and what is flat-map
+
+
+reference comparison : 
+
+
+
+
 
 
 
